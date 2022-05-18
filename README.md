@@ -1,9 +1,12 @@
-### Hi, I'm Kurtis 👋
+### Hi, I'm Kurtis :-)
+
+I'll update this eventually
+<!--
 ![](https://visitor-badge.glitch.me/badge?page_id=kurtisdavid.kurtisdavid)
 
 [![Kurtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtisdavid&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **kurtisdavid/kurtisdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
