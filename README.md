@@ -2,7 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-kurtisdavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurtisdavid/)](https://www.linkedin.com/in/kurtisdavid/)
 [![Gmail Badge](https://img.shields.io/badge/-kurtis.e.david@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kurtis.e.david@gmail.com)](mailto:kurtis.e.david@gmail.com)
+[![Personal Website](https://img.shields.io/badge/-🧙🏽‍♂️kurtisdavid.github.io-fffdd0?style=flat-square&&logoColor=white&link=https://kurtisdavid.github.io)](https://kurtisdavid.github.io)
 
+## 🧙🏽‍♂️ About Me
 🔭 **Research Scientist** at [Protopia AI](https://protopia.ai/) working on **data privacy for deep learning**.
 
 📓 I’m currently studying **information theory**, ***f*-divergences**, and **diffusion models** .
