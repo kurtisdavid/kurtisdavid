@@ -1,12 +1,21 @@
 ### Hi, I'm Kurtis :-)
 
+[![Linkedin Badge](https://img.shields.io/badge/-kurtisdavid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurtisdavid/)](https://www.linkedin.com/in/kurtisdavid/)
+[![Gmail Badge](https://img.shields.io/badge/-kurtis.e.david@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kurtis.e.david@gmail.com)](mailto:kurtis.e.david@gmail.com)
 
+🔭 **Research Scientist** at [Protopia AI](https://protopia.ai/) working on **data privacy for deep learning**.
 
-🔭 Research Scientist at [Protopia AI](https://protopia.ai/) working on **data privacy for deep learning**.
-
-🌱 I’m currently studying **information theory** and **f-divergences**.
+📓 I’m currently studying **information theory**, ***f*-divergences**, and **diffusion models** .
 
 💬 Ask me about various topics in **Responsible AI**: **interpretability**, **fairness**, and **privacy**.
+
+🌱 Plant father of a **Hoya Krimson Queen**, **Calathea** and **African Violet**.  
+
+👾 I play **League of Legends** and **Tetris**, both slightly above mediocre :,)
+
+🏃🏽 When I can, I go **bouldering**! Recently picked up **skating**.
+
+🎧 Favorite artists are **Wallows, mxmtoon**, and **HONNE**.
 
 
 ## 🚀💻 Technologies & Tools
@@ -30,14 +39,18 @@
 
 ## ⚡ GitHub Stats
 
-<p>
   <a href="https://git.io/streak-stats">
     <img width="47.5%" align="left" alt="Strreak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=kurtisdavid&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img width="47.5%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurtisdavid&count_private=true&show_icons=true&theme=radical&include_all_commits=true)" />
   </a>
-</p>
+
+
+
+
+
+
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=kurtisdavid.kurtisdavid)
 
