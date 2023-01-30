@@ -7,11 +7,11 @@
 ## 🧙🏽‍♂️ About Me
 🔭 **Technical Research Lead** at [Protopia AI](https://protopia.ai/) working on **data privacy for deep learning**.
 
-📓 I’m currently studying **information theory**, ***f*-divergences**, and **diffusion models** .
+📓 I’m currently studying **influence functions**, **diffusion models**, and **mechanistic interpretability**.
 
 💬 Ask me about various topics in **Responsible AI**: **interpretability**, **fairness**, and **privacy**.
 
-🌱 Plant father of a **Hoya Krimson Queen**, **Calathea** and **African Violet**.  
+🐈 Adopted cat father, his name is Papaya!!
 
 👾 I play **League of Legends** and **Tetris**, both slightly above mediocre :,)
 
