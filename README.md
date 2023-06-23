@@ -5,7 +5,7 @@
 [![Personal Website](https://img.shields.io/badge/-🧙🏽‍♂️kurtisdavid.github.io-fffdd0?style=flat-square&&logoColor=white&link=https://kurtisdavid.github.io)](https://kurtisdavid.github.io)
 
 ## 🧙🏽‍♂️ About Me
-🔭 **Technical Research Lead** at [Protopia AI](https://protopia.ai/) working on **data privacy for deep learning**.
+🔭 Currently on break from working.
 
 📓 I’m currently studying **influence functions**, **diffusion models**, and **mechanistic interpretability**.
 
