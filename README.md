@@ -5,19 +5,14 @@
 [![Personal Website](https://img.shields.io/badge/-🧙🏽‍♂️kurtisdavid.github.io-fffdd0?style=flat-square&&logoColor=white&link=https://kurtisdavid.github.io)](https://kurtisdavid.github.io)
 
 ## 🧙🏽‍♂️ About Me
-🔭 Currently on break from working.
 
-📓 I’m currently studying **influence functions**, **diffusion models**, and **mechanistic interpretability**.
+📓 I’m currently studying **multi-modal** generative models, **influence functions**, and **mechanistic interpretability**.
 
 💬 Ask me about various topics in **Responsible AI**: **interpretability**, **fairness**, and **privacy**.
 
 🐈 Adopted cat father, his name is Papaya!!
 
-👾 I play **League of Legends** and **Tetris**, both slightly above mediocre :,)
-
-🏃🏽 When I can, I go **bouldering**! Recently picked up **skating**.
-
-🎧 Favorite artists are **Wallows, mxmtoon**, and **HONNE**.
+👾 In my free time, I like to play piano, study chess, and cook food!
 
 
 ## 🚀💻 Technologies & Tools
@@ -44,9 +39,6 @@
   <a href="https://git.io/streak-stats">
     <img width="47.5%" align="left" alt="Strreak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=kurtisdavid&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   </a>  
-  <a href="https://github.com/anuraghazra/github-readme-stats">  
-    <img width="47.5%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurtisdavid&count_private=true&show_icons=true&theme=radical&include_all_commits=true)" />
-  </a>
 
 
 
